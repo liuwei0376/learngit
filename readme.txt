@@ -6,3 +6,5 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 
 test --no-ff.
+
+added by JiangYiPing.
