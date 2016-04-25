@@ -2,3 +2,5 @@
 
 def hello_angel():
         pass
+def hello_world():
+	pass
